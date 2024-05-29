@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Biyong\\source\\repos\\Dangaran-PokemonApplication\\Dangaran-PokemonApplication.csproj": {}
+    "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Dangaran-PokemonApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Biyong\\source\\repos\\Dangaran-PokemonApplication\\Dangaran-PokemonApplication.csproj": {
+    "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Dangaran-PokemonApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Biyong\\source\\repos\\Dangaran-PokemonApplication\\Dangaran-PokemonApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Dangaran-PokemonApplication.csproj",
         "projectName": "Dangaran-PokemonApplication",
-        "projectPath": "C:\\Users\\Biyong\\source\\repos\\Dangaran-PokemonApplication\\Dangaran-PokemonApplication.csproj",
+        "projectPath": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Dangaran-PokemonApplication.csproj",
         "packagesPath": "C:\\Users\\Biyong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Biyong\\source\\repos\\Dangaran-PokemonApplication\\obj\\",
+        "outputPath": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Biyong\\AppData\\Roaming\\NuGet\\NuGet.Config",
