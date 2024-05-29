@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dangaran-PokemonApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0611bc0f21596fa05cf54c0745ae99fc00df83b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b503c25f281c1d679a683bec043bbeedb5b2502")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dangaran-PokemonApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dangaran-PokemonApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

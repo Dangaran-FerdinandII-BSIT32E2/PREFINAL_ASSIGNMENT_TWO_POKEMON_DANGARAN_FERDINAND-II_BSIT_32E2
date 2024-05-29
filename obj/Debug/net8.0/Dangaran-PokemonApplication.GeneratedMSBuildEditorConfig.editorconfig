@@ -18,12 +18,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Biyong\OneDrive - lyceum of alabang\Documents\GitHub\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Biyong/OneDrive - lyceum of alabang/Documents/GitHub/PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Biyong/OneDrive - lyceum of alabang/Documents/GitHub/PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Biyong/OneDrive - lyceum of alabang/Documents/GitHub/PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2/Views/Pokemon/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9rZW1vblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Biyong/OneDrive - lyceum of alabang/Documents/GitHub/PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2/Views/Pokemon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9rZW1vblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Biyong/OneDrive - lyceum of alabang/Documents/GitHub/PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2/Views/Shared/Error.cshtml]
