@@ -2,11 +2,11 @@
 
 namespace Dangaran_PokemonApplication.Models
 {
-    public class Pokemon : Controller
+    public class Pokemon
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+        public string Name { get; set; }
+        public List<Moves> Moves { get; set; }
+        public List<Ability> Abilities { get; set; }
+        public string ImageFileName { get; set; } // Property for image filename
     }
 }

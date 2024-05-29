@@ -2,11 +2,15 @@
 
 namespace Dangaran_PokemonApplication.Models
 {
-    public class VersionGroupDetails : Controller
+    public class VersionGroupDetails
     {
-        public IActionResult Index()
+        public int level_learned_at { get; set; }
+        public MoveLearnMethod move_learn_method { get; set; }
+        public VersionGroup version_group { get; set; }
+
+        public override string ToString()
         {
-            return View();
+            return $"Level Learned At: {level_learned_at}, Move Learn Method: {move_learn_method?.name}, Version Group: {version_group?.name}";
         }
     }
 }

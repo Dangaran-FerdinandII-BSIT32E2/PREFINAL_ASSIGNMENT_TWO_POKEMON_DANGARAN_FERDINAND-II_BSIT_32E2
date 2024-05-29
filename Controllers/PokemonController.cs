@@ -1,12 +1,15 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
+
 namespace Dangaran_PokemonApplication.Controllers
 {
     public class PokemonController : Controller
     {
-        public IActionResult Index()
+        private readonly HttpClient _client;
+
+        public PokemonController()
         {
-            return View();
+            _client = new HttpClient();
         }
     }
 }

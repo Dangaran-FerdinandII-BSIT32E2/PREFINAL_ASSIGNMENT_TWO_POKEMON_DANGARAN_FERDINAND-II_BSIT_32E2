@@ -2,11 +2,21 @@
 
 namespace Dangaran_PokemonApplication.Models
 {
-    public class MoveDetail : Controller
+    public class MoveDetail
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+        public string name { get; set; }
+        public string url { get; set; }
+    }
+
+    public class MoveLearnMethod
+    {
+        public string name { get; set; }
+        public string url { get; set; }
+    }
+
+    public class VersionGroup
+    {
+        public string name { get; set; }
+        public string url { get; set; }
     }
 }

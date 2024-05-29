@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prefinal_assignment_two_pokemon_dangaran_ferdinand-ii_bsit_32e2\\views\\pokemon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|solutionrelative:views\\pokemon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prefinal_assignment_two_pokemon_dangaran_ferdinand-ii_bsit_32e2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prefinal_assignment_two_pokemon_dangaran_ferdinand-ii_bsit_32e2\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|solutionrelative:controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prefinal_assignment_two_pokemon_dangaran_ferdinand-ii_bsit_32e2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prefinal_assignment_two_pokemon_dangaran_ferdinand-ii_bsit_32e2\\views\\pokemon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|solutionrelative:views\\pokemon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prefinal_assignment_two_pokemon_dangaran_ferdinand-ii_bsit_32e2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prefinal_assignment_two_pokemon_dangaran_ferdinand-ii_bsit_32e2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prefinal_assignment_two_pokemon_dangaran_ferdinand-ii_bsit_32e2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prefinal_assignment_two_pokemon_dangaran_ferdinand-ii_bsit_32e2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prefinal_assignment_two_pokemon_dangaran_ferdinand-ii_bsit_32e2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prefinal_assignment_two_pokemon_dangaran_ferdinand-ii_bsit_32e2\\models\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|solutionrelative:models\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prefinal_assignment_two_pokemon_dangaran_ferdinand-ii_bsit_32e2\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|solutionrelative:models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prefinal_assignment_two_pokemon_dangaran_ferdinand-ii_bsit_32e2\\models\\moves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|solutionrelative:models\\moves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prefinal_assignment_two_pokemon_dangaran_ferdinand-ii_bsit_32e2\\models\\movedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|solutionrelative:models\\movedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prefinal_assignment_two_pokemon_dangaran_ferdinand-ii_bsit_32e2\\models\\versiongroupdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|solutionrelative:models\\versiongroupdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|c:\\users\\biyong\\onedrive - lyceum of alabang\\documents\\github\\prefinal_assignment_two_pokemon_dangaran_ferdinand-ii_bsit_32e2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BAB90B-C09D-4754-8868-95F2B6E2E4F5}|Dangaran-PokemonApplication.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:36:21.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:24:58.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Views\\Pokemon\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pokemon\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Views\\Pokemon\\Details.cshtml",
+              "RelativeToolTip": "Views\\Pokemon\\Details.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:10:20.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Views\\Pokemon\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pokemon\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Views\\Pokemon\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pokemon\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:10:31.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:15:00.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:14:33.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:24:53.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:05:32.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PokemonController.cs",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "Controllers\\PokemonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:07:22.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-29T11:24:56.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ability.cs",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Models\\Ability.cs",
+              "RelativeDocumentMoniker": "Models\\Ability.cs",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Models\\Ability.cs",
+              "RelativeToolTip": "Models\\Ability.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:13:50.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Models\\Pokemon.cs",
+              "RelativeToolTip": "Models\\Pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:11:25.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Moves.cs",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Models\\Moves.cs",
+              "RelativeDocumentMoniker": "Models\\Moves.cs",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Models\\Moves.cs",
+              "RelativeToolTip": "Models\\Moves.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:12:04.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MoveDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Models\\MoveDetail.cs",
+              "RelativeDocumentMoniker": "Models\\MoveDetail.cs",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Models\\MoveDetail.cs",
+              "RelativeToolTip": "Models\\MoveDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:12:27.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VersionGroupDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Models\\VersionGroupDetails.cs",
+              "RelativeDocumentMoniker": "Models\\VersionGroupDetails.cs",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Models\\VersionGroupDetails.cs",
+              "RelativeToolTip": "Models\\VersionGroupDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:12:49.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Biyong\\OneDrive - lyceum of alabang\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_DANGARAN_FERDINAND-II_BSIT_32E2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:12:58.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

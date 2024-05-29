@@ -30,3 +30,4 @@ namespace Dangaran_PokemonApplication.Controllers
         }
     }
 }
+

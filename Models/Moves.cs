@@ -2,11 +2,19 @@
 
 namespace Dangaran_PokemonApplication.Models
 {
-    public class Moves : Controller
+    public class Moves
     {
-        public IActionResult Index()
+        public MoveDetail move { get; set; }
+        public List<VersionGroupDetails> version_group_details { get; set; }
+
+        public override string ToString()
         {
-            return View();
+            if (move != null && !string.IsNullOrEmpty(move.name))
+            {
+                return $"Move Name: {move.name}";
+            }
+
+            return string.Empty;
         }
     }
 }
